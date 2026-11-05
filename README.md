@@ -30,20 +30,19 @@ Below are the compression ratio analysis tables under various encoding profiles.
 | New Year (Sample B) | 800 x 600 | 87.9 KB | 42.4 |
 
 ### Compression Quality Scaling Impact
-*Test Case Asset: `playing_kitten.jpg` (Baseline Input: 246 KB | High Compression Baseline at Quality = 1: 13.6 KB)*
 
-| Quality Profile Parameter | Output Size (KiB) |
-| :---: | :---: |
-| **10** | 31.9 |
-| **20** | 50.3 |
-| **30** | 65.5 |
-| **40** | 79.0 |
-| **50** | 90.0 |
-| **60** | 103.0 |
-| **70** | 126.0 |
-| **80** | 150.0 |
-| **90** | 236.0 |
-| **100** | 543.0 |
+| Quality Parameter | Output Size (KiB) | Visual Compression Inspection Link |
+| :---: | :---: | :---: |
+| **10** | 31.9 | [🔍 View Output Profile Image](imgQuality/output_quality_10.jpg) |
+| **20** | 50.3 | [🔍 View Output Profile Image](imgQuality/output_quality_20.jpg) |
+| **30** | 65.5 | [🔍 View Output Profile Image](imgQuality/output_quality_30.jpg) |
+| **40** | 79.0 | [🔍 View Output Profile Image](imgQuality/output_quality_40.jpg) |
+| **50** | 90.0 | [🔍 View Output Profile Image](imgQuality/output_quality_50.jpg) |
+| **60** | 103.0 | [🔍 View Output Profile Image](imgQuality/output_quality_60.jpg) |
+| **70** | 126.0 | [🔍 View Output Profile Image](imgQuality/output_quality_70.jpg) |
+| **80** | 150.0 | [🔍 View Output Profile Image](imgQuality/output_quality_80.jpg) |
+| **90** | 236.0 | [🔍 View Output Profile Image](imgQuality/output_quality_90.jpg) |
+| **100** | 543.0 | [🔍 View Output Profile Image](imgQuality/output_quality_100.jpg) |
 
 ---
 
