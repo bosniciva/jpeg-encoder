@@ -22,7 +22,7 @@ Below are the compression ratio analysis tables under various encoding profiles.
 
 | Input Image | Dimensions | Input Size | Output Size (KiB) |
 | :--- | :--- | :--- | :--- |
-| Mandrill / Baboon | 512 x 512 | 768 KB | 76.6 |
+| Baboon | 512 x 512 | 768 KB | 76.6 |
 | New Year (Sample A) | 800 x 600 | 1.37 MB | 42.5 |
 | Cat Portrait | 1024 x 1024 | 2.16 MB | 169.0 |
 | Green Cat | 604 x 488 | 65.8 KB | 51.5 |
