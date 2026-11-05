@@ -1,0 +1,25 @@
+# --- Build & Output Directories ---
+build/
+debug/
+release/
+outImages/
+imgQuality/
+
+# --- IDE & Build Artifacts ---
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+
+# --- OS & Diagnostic Garbage ---
+*.log
+.DS_Store
+Thumbs.db
+
+# --- Non-Code / Source Materials ---
+# Leave the markdown README tracked, but hide local office documents
+Tabela\ rezultata.docx
+Spec/
+
+# --- Ignore testing outputs directly in root ---
+processed_img3.jpg
