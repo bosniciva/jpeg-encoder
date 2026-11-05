@@ -3,7 +3,6 @@ build/
 debug/
 release/
 outImages/
-imgQuality/
 
 # --- IDE & Build Artifacts ---
 .qmake.stash
