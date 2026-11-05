@@ -31,18 +31,18 @@ Below are the compression ratio analysis tables under various encoding profiles.
 
 ### Compression Quality Scaling Impact
 
-| Quality Parameter | Output Size (KiB) | Visual Compression Inspection Link |
-| :---: | :---: | :---: |
-| **10** | 31.9 | [🔍 View Output Profile Image](imgQuality/output_quality_10.jpg) |
-| **20** | 50.3 | [🔍 View Output Profile Image](imgQuality/output_quality_20.jpg) |
-| **30** | 65.5 | [🔍 View Output Profile Image](imgQuality/output_quality_30.jpg) |
-| **40** | 79.0 | [🔍 View Output Profile Image](imgQuality/output_quality_40.jpg) |
-| **50** | 90.0 | [🔍 View Output Profile Image](imgQuality/output_quality_50.jpg) |
-| **60** | 103.0 | [🔍 View Output Profile Image](imgQuality/output_quality_60.jpg) |
-| **70** | 126.0 | [🔍 View Output Profile Image](imgQuality/output_quality_70.jpg) |
-| **80** | 150.0 | [🔍 View Output Profile Image](imgQuality/output_quality_80.jpg) |
-| **90** | 236.0 | [🔍 View Output Profile Image](imgQuality/output_quality_90.jpg) |
-| **100** | 543.0 | [🔍 View Output Profile Image](imgQuality/output_quality_100.jpg) |
+| Quality Parameter | Output Size (KiB) | Rendered Output Visual Preview |
+| :---: | :---: | :--- |
+| **10** | 31.9 | <img src="imgQuality/output_quality_10.jpg" width="160" alt="Q10"> |
+| **20** | 50.3 | <img src="imgQuality/output_quality_20.jpg" width="160" alt="Q20"> |
+| **30** | 65.5 | <img src="imgQuality/output_quality_30.jpg" width="160" alt="Q30"> |
+| **40** | 79.0 | <img src="imgQuality/output_quality_40.jpg" width="160" alt="Q40"> |
+| **50** | 90.0 | <img src="imgQuality/output_quality_50.jpg" width="160" alt="Q50"> |
+| **60** | 103.0 | <img src="imgQuality/output_quality_60.jpg" width="160" alt="Q60"> |
+| **70** | 126.0 | <img src="imgQuality/output_quality_70.jpg" width="160" alt="Q70"> |
+| **80** | 150.0 | <img src="imgQuality/output_quality_80.jpg" width="160" alt="Q80"> |
+| **90** | 236.0 | <img src="imgQuality/output_quality_90.jpg" width="160" alt="Q90"> |
+| **100** | 543.0 | <img src="imgQuality/output_quality_100.jpg" width="160" alt="Q100"> |
 
 ---
 
